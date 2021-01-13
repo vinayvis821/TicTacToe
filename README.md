@@ -9,9 +9,8 @@ Play TicTacToe on the command line against a computer!
 - Play the game!
 
 ## How to play tic-tac-toe
-- Seriously?
+- <https://www.youtube.com/watch?v=USEjXNCTvcc&ab_channel=TripleSGames>
 
 ## Thank you for reading
-Consider giving a star on the repo or dropping a follow on my profile
 
 -_vinayvis821_
